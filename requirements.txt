@@ -1,0 +1,11 @@
+langchain==0.3.27
+langchain-openai==0.3.30
+langchain-community==0.3.27
+langchain-core==0.3.74
+openai==1.99.9
+faiss-cpu==1.12.0
+python-pptx==0.6.23
+PyPDF2==3.0.1
+flet==0.25.0
+python-dotenv==1.0.1
+pypandoc==1.13

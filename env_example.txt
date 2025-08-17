@@ -1,0 +1,7 @@
+# OpenAI API設定
+OPENAI_API_KEY=your_openai_api_key_here
+
+# アプリ設定
+REVIEW_MODE=all
+OUTPUT_DIR=output
+REVIEWS_DIR=reviews
